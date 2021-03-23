@@ -1,0 +1,99 @@
+Q1: Is HTML a programming language?
+- Yes
+-- No
+
+
+Q2: What is one of the reasons Java is different to Javascript?
+--Java is compiled before it runs and isn't limited to being on a web browser.
+-Javascript is compiled before it runs and isn't limited to being on a web browser.
+-Javascript is barely used anymore since Java came out.
+-Java is just short for javascript
+
+
+Q3: What is the newest version of HTML being developed?
+-- HTML5
+- HTML4
+- HTML3
+- Tere is only on type of HTML.
+
+Q4: What does CSS stand for?
+- Complete Sound Sheet
+-- Cascading Style Sheet
+- Cscading Style Syntax
+
+Q5: Non animated gifs are usually lower in file size, why don't people use them for photos
+- Because it hasn't caught on.
+- They are limited to 256 colours.
+-- When they are made to be over 256 colours the image size is larger then png or jpeg most of the time
+
+
+Q6:  Why are the marquee and blink elements not used in most sites?
+- Because they are complex.
+-- They are distracting and decrease Usability.
+- You need to pay for a lisencse to use them.
+- None of the above
+
+Q7: What happens to a lot of images saved as jpgs when you put them online.
+- Stretching
+- They are too big in file size.
+-- Lower quality and artifacts.
+- They'll turn blur
+
+Q8: Which is the correct CSS syntax?
+-- Body {color: black}
+- {body;color:black}
+- {body:color=black(body}
+- body:color=black
+
+Q9: What does a compiler do?   
+- Makes code start
+- Tests to see whether the program runs fine
+-- Converts the coding into another computer language, usually to make an executable program.
+
+
+Q10: What is an advantage of having external CSS?
+- It is faste
+-- You can edit one file to edit the base of every page which uses it.
+- It makes no no difference
+- 
+
+Q11: What does the acronym WWW stand for?
+- Wide Wacky Walter
+- Web Wide Wave
+- Wide Wall Web
+- Web World Wall
+-- World Wide Web
+
+Q12 : 	
+HTML is what type of language ?
+- Scripting Language
+-Programming Language
+-- Markup language
+- Pre specific tags
+-
+
+Q13: HTML uses 
+- User defined tagsB
+- Pre-specified tags
+-- Fixed tags defined by the language
+- Tags only for linking
+
+Q14: The year in which HTML was first proposed _______.
+-- 1993 
+- 2000
+- 2015
+- 1950
+
+Q15: Apart from <b> tag, what other tag makes text bold ?
+- <fat>
+- <black>
+-- <strong>
+- <emp>
+
+Q16: 	
+HTML web pages can be read and rendered by _________.
+- Web designer
+- Server
+- Interpreter
+-- Web browser
+
