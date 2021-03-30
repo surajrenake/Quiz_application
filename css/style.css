@@ -5,7 +5,7 @@ body{
 	margin: 0;
 	font-size: 16px;
 	background-color: #085685; 
-	font-family: 'Montserrat', sans-serif;
+	font-family: "Montserrat", sans-serif;
 	font-weight: 400;
 }
 
@@ -53,7 +53,6 @@ body{
 	margin-bottom: 15px;
 	line-height: 25px;
 }
-
 .home-box p{
 	font-size: 16px;
 	margin-bottom: 10px;
@@ -178,9 +177,7 @@ body{
 .quiz-box .opt-container .option.wrong{
 	color: white;
 }
-.quiz-box .next-question-btn{
-	
-}
+
 .quiz-box .btn{
 	margin: 15px 0;
 }
@@ -212,9 +209,7 @@ body{
 	background-position: center;
 }
 
-.quiz-box .question-no{
-	
-}
+
 
 .result-box{
 	text-align: center;
@@ -254,13 +249,3 @@ body{
 		padding: 15%;
 		}
 }
-
-
-
-
-
-
-
-
-
-
